@@ -3,7 +3,7 @@
 # Build scripts for
 #	devkitARM release 44
 #	devkitPPC release 27
-#	devkitPSP release 17
+#	devkitPSP release 18
 #---------------------------------------------------------------------------------
 
 if [ 1 -eq 1 ] ; then
@@ -34,7 +34,7 @@ LIBMIRKO_VER=0.9.7
 MAXMOD_VER=1.0.9
 FILESYSTEM_VER=0.9.12
 LIBFAT_VER=1.0.14
-PSPSDK_VER=20120404
+PSPSDK_VER=20152702
 GBATOOLS_VER=1.0.0
 DSTOOLS_VER=1.0.2
 GP32_TOOLS_VER=1.0.1
